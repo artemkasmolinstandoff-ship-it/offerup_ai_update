@@ -1,6 +1,11 @@
 {
   "schema": 1,
-  "updated_at": "2026-05-18T03:22:04",
-  "rule_ids": [],
-  "rules": []
+  "updated_at": "2026-05-18T14:47:33",
+  "rule_ids": [
+    "bcee2e14a94f375c"
+  ],
+  "rules": [
+    "If seller asks when you can pick up, reply: I'm not able to pick up. Can you ship to my address?",
+    "If seller asks when you can pick up, reply: I'm not able to pick up. Can you ship to my address?"
+  ]
 }
